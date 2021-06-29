@@ -1,0 +1,52 @@
+@charset "UTF-8";
+
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    /*height: 100%;*/
+}
+
+body {
+    /* background-image: linear-gradient(to right, #0ceded, #689400); */
+    background-image: url(imgs/tope.png);
+    background-repeat: repeat;
+    background-position: center;
+}
+
+main {
+    background-color: white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 15px #00000093;
+    width: 600px;
+    padding: 10px;
+    margin: auto;
+}
+
+h1 {
+    color: #680000;
+    text-align: center;
+    text-shadow: 1px 1px 2px #1d0000a1;
+}
+
+h2 {
+    color: #dd1203;
+    text-shadow: 1px 1px 2px #300300;
+}
+
+p {
+    text-align: justify;
+}
+
+div{
+    text-align: right;
+}
+
+.kj{
+    font-size: xx-large;
+    text-align: center;
+    color: #00325a;
+    text-decoration: none;
+}
+
+.setas{
+    width: 50px;
+}
